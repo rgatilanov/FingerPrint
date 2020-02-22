@@ -1,0 +1,25 @@
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.deps.json
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.AssemblyInfoInputs.cache
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.AssemblyInfo.cs
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\ref\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\ref\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.deps.json
+G:\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\ref\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM\bin\Debug\netstandard2.0\FingerPrintMTWDM.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.csprojAssemblyReference.cache
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.AssemblyInfoInputs.cache
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.AssemblyInfo.cs
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\XamlC.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\ref\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM\obj\Debug\netstandard2.0\FingerPrintMTWDM.pdb

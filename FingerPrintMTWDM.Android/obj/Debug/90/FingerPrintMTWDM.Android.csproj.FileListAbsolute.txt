@@ -1,0 +1,1202 @@
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\build.props
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\adb.props
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.csprojAssemblyReference.cache
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.Android.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.Android.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm.apk
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm-Signed.aab
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm-Signed.apk
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res.flag
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\AD743DBEE20C4702.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\61B88CE5DC0C604A.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\1991666C7B2E49FD.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\0980DB492C2E3D1D.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\3940FC2F1649E094.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\2951410A41499474.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\BE3DA067D56F7637.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\153CC44AF36BA0FB.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\5178AB83E66BBDC3.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\9DB41AD8D86B9A8B.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\D9F07511CD6B87B3.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\C9E1C8349A6BF353.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\1D0391DEAE917E84.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\D1CF2085909159CC.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\AD743DBEE20C4702.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\61B88CE5DC0C604A.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\1991666C7B2E49FD.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\0980DB492C2E3D1D.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\3940FC2F1649E094.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\2951410A41499474.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\BE3DA067D56F7637.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\153CC44AF36BA0FB.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\5178AB83E66BBDC3.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\9DB41AD8D86B9A8B.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\D9F07511CD6B87B3.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\C9E1C8349A6BF353.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\1D0391DEAE917E84.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\D1CF2085909159CC.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\R.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\R.cs.flag
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\XamlC.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.csproj.CopyComplete
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.apk
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.aab
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.apks
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\uploadflags.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.Android.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.Android.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.Fingerprint.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.Fingerprint.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.Resources.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.Resources.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Biometric.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Biometric.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\0450c117-db1e-492c-a4a1-9af45e51af9f.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\05c6cc53-fdbe-4555-ae47-7c00af16436c.cfg
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\063ca5f0-43a7-42f3-a2f9-6f0a2a321573.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\25f05191-27fb-46cf-9611-e54e22de3ef6.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\31729413-a10e-4f8c-8e33-b782228afef7.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\56bec141-d8c3-4c90-983d-ebfc844e30b1.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\68e3933c-67db-4e84-9ce3-219380352701.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\6dbf32ad-23ce-456b-9124-79f37510fdfa.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\c9a49eaf-421f-4856-a0d8-6722f95401ce.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\e26ed590-bab4-419d-a3a5-0f18efb48898.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\e772d63a-f52d-488e-bdc6-9ec105f789fb.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\f551d9f9-736d-449a-9b60-7967bdb10527.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyProguardRules.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyProguardRules.jetify
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXCecilfy.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\__environment__.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\static.flag
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\buildid.txt
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64016554f3f65368b2\MainActivity.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\google\android\material\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\viewpager2\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\transition\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\recyclerview\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\media\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\core\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\coordinatorlayout\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\cardview\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\browser\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\biometric\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64e6d0b84c6264ccdd\AuthenticationHandler.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\resources\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyManifest.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyManifest.jetify
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\companyname\fingerprintmtwdm\R.java
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\ProBook 450 HP\source\repos\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.Android.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.Android.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm.apk
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm-Signed.aab
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\com.companyname.fingerprintmtwdm-Signed.apk
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\bin\Debug\FingerPrintMTWDM.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\build.props
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\adb.props
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.csprojAssemblyReference.cache
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resourcepaths.cache
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resourcecache.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res.flag
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\59579E64D0A43A28.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\959B2F3FEEA41D60.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\EDB2C5B6498634D7.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\FDA378931E864037.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\CD635FF524E19DBE.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\DD72E2D073E1E95E.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\4A1E03BDE7C70B1D.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\E11F6790C1C3DDD1.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\A55B0859D4C3C0E9.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\6997B902EAC3E7A1.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\2DD3D6CBFFC3FA99.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\3DC26BEEA8C38E79.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\E92032049C3903AE.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\25EC835FA23924E6.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\59579E64D0A43A28.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\959B2F3FEEA41D60.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\EDB2C5B6498634D7.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\FDA378931E864037.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\CD635FF524E19DBE.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\DD72E2D073E1E95E.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\4A1E03BDE7C70B1D.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\E11F6790C1C3DDD1.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\A55B0859D4C3C0E9.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\6997B902EAC3E7A1.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\2DD3D6CBFFC3FA99.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\3DC26BEEA8C38E79.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\E92032049C3903AE.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\25EC835FA23924E6.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\flata\compiled.flata
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\R.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\R.cs.flag
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\XamlC.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.csproj.CopyComplete
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\FingerPrintMTWDM.Android.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.apk
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\base.zip
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.aab
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\com.companyname.fingerprintmtwdm.apks
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\layout\tabbar.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\layout\toolbar.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\values\styles.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\values\colors.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\uploadflags.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\resolvedassemblies.hash
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.Android.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.Android.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FingerPrintMTWDM.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Java.Interop.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Android.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Security.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\mscorlib.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\mscorlib.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\netstandard.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.Fingerprint.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Plugin.Fingerprint.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Core.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Core.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Data.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Transactions.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\System.Xml.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Activity.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Activity.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Annotation.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Annotation.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.Resources.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AppCompat.Resources.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Biometric.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Biometric.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Browser.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Browser.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CardView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CardView.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Collection.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Collection.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Core.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Core.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CustomView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.CustomView.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DocumentFile.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Fragment.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Fragment.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Interpolator.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Interpolator.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Loader.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Loader.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Media.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Media.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.MultiDex.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.MultiDex.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Print.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Print.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.RecyclerView.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SavedState.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SavedState.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Transition.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.Transition.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager2.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Google.Android.Material.dll
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\Xamarin.Google.Android.Material.pdb
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\06f454cb-86e6-432b-94e0-9c1b77245ede.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\08db4252-81b2-4271-afb6-005f220ba875.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\124fab4b-f8dc-4cbc-a47e-ae51879476e7.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\3ca5c6d5-fc88-4773-bba2-a4fac6a301b5.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\57f3d97f-263b-4068-bf45-0ed512fdf45b.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\7b5b09c9-56a9-4591-8957-cd937d0caadb.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\813c6e14-ebf9-42da-863b-eb4915c989d0.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\afd1d73e-cfb8-410e-8d40-7d462ff21f91.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\b2a6d174-442d-4a45-a915-a1a062ac9bf5.cfg
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\cb66085c-e0ca-4505-93b5-903605a641a5.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\d7842bcb-eb85-4645-9e82-e15483547fdb.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\proguard\f837c78e-a3a2-4b3b-ac86-5799ade12d1a.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyProguardRules.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyProguardRules.jetify
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXCecilfy.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\__environment__.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\assets\machine.config
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\mono.android.jar
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\static.flag
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\buildid.txt
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.arm64-v8a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86_64.s
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64016554f3f65368b2\MainActivity.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\google\android\material\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\viewpager2\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\transition\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\recyclerview\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\media\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\core\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\coordinatorlayout\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\cardview\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\browser\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\biometric\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64e6d0b84c6264ccdd\AuthenticationHandler.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\resources\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\androidx\appcompat\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_AndroidXJetifyManifest.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\androidx\_AndroidXJetifyManifest.jetify
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\packaged_resources
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\src\com\companyname\fingerprintmtwdm\R.java
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.arm64-v8a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\environment.x86_64.o
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\android\bin\classes.dex
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+G:\FingerPrintMTWDM\FingerPrintMTWDM.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
